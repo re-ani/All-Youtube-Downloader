@@ -17,4 +17,9 @@ You can manually open the setup file or run:
  &setup.cmd
 ```
 ---------------------------------------------
-#USES
+# USES
+You can download videos by opening the 'Downloader.cmd'or by:
+```batch
+cd All-Youtube-Downloader
+&Downloader.cmd
+```
