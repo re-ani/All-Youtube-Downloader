@@ -11,7 +11,7 @@ Clone the repository:
 ```batch
 git clone https://github.com/re-ani/All-Youtube-Downloader
 &cd All-Youtube-Downloader
-&setup.cmd
+&&setup.cmd
 ```
 ---------------------------------------------
 # USES  
