@@ -3,7 +3,7 @@ A simple utility to download YouTube.com and other sites videos,playlist and cha
 - [INSTALLATION](#INSTALLATION)  
 - [USES](#USES)
 - [OPTIONS](#OPTIONS)
-- [SUPPORTED WEBSITES](#SUPPORTED)
+- [SUPPORTED WEBSITES](#SUPPORTED WEBSITES)
 # INSTALLATION
 ----------------------------------------------
 [Python 3.12](https://www.python.org/downloads/) or later Required.  
@@ -35,7 +35,7 @@ The default format is webm for most videos
 Range is the index number of the videos i.e 1,4 or 1-3  
 - Format/Quality
 Format List
-```list
+```
 3gp
 aac
 flv
@@ -47,7 +47,7 @@ wav
 webm
 ```
 Quality List
-```list
+```
 best
 worst
 bestvideo
@@ -56,7 +56,7 @@ bestaudio
 worstaudio
 ```
 # SUPPORTED WEBSITES
-```list
+```
 youtube
 ```
 
