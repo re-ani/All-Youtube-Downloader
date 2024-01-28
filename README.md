@@ -3,7 +3,7 @@ A simple utility to download YouTube.com and other sites videos,playlist and cha
 - [INSTALLATION](#INSTALLATION)  
 - [USES](#USES)
 - [OPTIONS](#OPTIONS)
-- [SUPPORTED WEBSITES](#SUPPORTED WEBSITES)
+- [SUPPORTED WEBSITES](#WEBSITES)
 # INSTALLATION
 ----------------------------------------------
 [Python 3.12](https://www.python.org/downloads/) or later Required.  
@@ -55,7 +55,7 @@ worstvideo
 bestaudio
 worstaudio
 ```
-# SUPPORTED WEBSITES
+# WEBSITES
 ```
 youtube
 ```
