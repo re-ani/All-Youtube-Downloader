@@ -10,12 +10,8 @@ A simple utility to download YouTube.com and other sites videos,playlist and cha
 Clone the repository:  
 ```batch
 git clone https://github.com/re-ani/All-Youube-Downloader
-&pip install pytube
-```
-You can manually open the setup file or run:  
-```batch
- cd All-Youtube-Downloader
- &setup.cmd
+&cd All-Youtube-Downloader
+&setup.cmd
 ```
 ---------------------------------------------
 # USES  
