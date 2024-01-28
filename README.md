@@ -9,7 +9,7 @@ A simple utility to download YouTube.com and other sites videos,playlist and cha
 [Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe) (x86) is Required.   
 Clone the repository:  
 ```batch
-git clone https://github.com/re-ani/All-Youube-Downloader
+git clone https://github.com/re-ani/All-Youtube-Downloader
 &cd All-Youtube-Downloader
 &setup.cmd
 ```
