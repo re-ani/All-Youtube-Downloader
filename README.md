@@ -2,6 +2,7 @@
 A simple utility to download YouTube.com and other sites videos,playlist and channels.  
 - [INSTALLATION](#INSTALLATION)  
 - [USES](#USES)
+- [OPTIONS](#OPTIONS)
 # INSTALLATION
 ----------------------------------------------
 [Python 3.12](https://www.python.org/downloads/) or later Required.  
