@@ -29,10 +29,8 @@ cd All-Youtube-Downloader
 The default path where the downloads will appear is the [home directory](https://en.wikipedia.org/wiki/Home_directory).  
 The default quality is 'The best available'  
 The default format is webm for most videos  
-_____________________________________________
 - Range
-Range is the index number of the videos i.e 1,4 or 1-3
-_____________________________________________
+Range is the index number of the videos i.e 1,4 or 1-3  
 - Format/Quality
 Format List
 ```
