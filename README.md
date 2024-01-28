@@ -55,3 +55,4 @@ worstvideo
 bestaudio
 worstaudio
 ```
+FOR MORE DETAILED INFORMATION VISIT [yt-dlp](https://github.com/ytdl-org/youtube-dl) GITHUB PAGE.
