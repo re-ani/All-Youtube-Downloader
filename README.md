@@ -1,5 +1,7 @@
 # All-Youtube-Downloader
 A simple utility to download YouTube.com and other sites videos,playlist and channels.
+[INSTALLATION](#INSTALLATION)
+[USES](#USES)
 # INSTALLATION
 ----------------------------------------------
 [Python 3.12](https://www.python.org/downloads/) or later Required  
@@ -15,3 +17,4 @@ You can manually open the setup file or run:
  &setup.cmd
 ```
 ---------------------------------------------
+#USES
