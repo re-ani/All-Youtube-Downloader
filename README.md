@@ -1,7 +1,7 @@
 # All-Youtube-Downloader
 A simple utility to download YouTube.com and other sites videos,playlist and channels.  
-[INSTALLATION](#INSTALLATION)  
-[USES](#USES)
+-[INSTALLATION](#INSTALLATION)  
+-[USES](#USES)
 # INSTALLATION
 ----------------------------------------------
 [Python 3.12](https://www.python.org/downloads/) or later Required.  
@@ -25,15 +25,15 @@ cd All-Youtube-Downloader
 ```
 ---------------------------------------------
 # OPTIONS  
-Default Configration  
+-Default Configration  
 The default path where the downloads will appear is the [home directory](https://en.wikipedia.org/wiki/Home_directory).  
 The default quality is 'The best available'  
 The default format is webm for most videos  
 _____________________________________________
-Range
+-Range
 Range is the index number of the videos i.e 1,4 or 1-3
 _____________________________________________
-Format/Quality
+-Format/Quality
 Format List
 ```
 3gp
