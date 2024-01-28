@@ -25,7 +25,7 @@ cd All-Youtube-Downloader
 ```
 ---------------------------------------------
 # OPTIONS  
-[Default Configration](#default configration)
+[Default Configration](#default)
 #Default Configration  
 The default path where the downloads will appear is the [home directory](https://en.wikipedia.org/wiki/Home_directory).  
 The default quality is 'The best available'  
