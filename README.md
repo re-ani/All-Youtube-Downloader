@@ -23,7 +23,7 @@ cd All-Youtube-Downloader
 ---------------------------------------------
 # OPTIONS  
 - Default Configration  
-The default path where the downloads will appear is the [home directory](https://en.wikipedia.org/wiki/Home_directory).  
+The default path where the downloads will appear is the directory where is the All-Youtube-Downloader is cloned ie. Home directory.   
 The default quality is 'The best available'  
 The default format is webm for most videos  
 - Range
