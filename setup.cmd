@@ -16,5 +16,5 @@ exit /b
 set appPath=%homedrive%%homepath%\all-Youtube-Downloader
 setx PATH "%PATH%;%appPath%"
 :: Confirm the change
-echo The path has been added to the PATH variable.
+echo The Setup is Complete.
 pause
